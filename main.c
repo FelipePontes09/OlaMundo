@@ -4,6 +4,6 @@
 int main()
 {
     printf("Olá Mundo c!\n");
-    printf( "Etec - Turma DS 2026\n");
+    printf( "Boa noite meun povo, amanha não tem aula!!!\n");
     return 0;
 }
